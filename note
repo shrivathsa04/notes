@@ -2,3 +2,9 @@ create cred for docker
 create cred for kubernatives
 
 add docker to sudo group
+
+ensure kube api service is running
+
+edit nexus repo ip in pom.xml
+
+edit kubenatives api server ip in jenkins file
