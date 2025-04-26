@@ -1,0 +1,4 @@
+create cred for docker
+create cred for kubernatives
+
+add docker to sudo group
