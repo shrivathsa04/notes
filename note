@@ -8,3 +8,7 @@ ensure kube api service is running
 edit nexus repo ip in pom.xml
 
 edit kubenatives api server ip in jenkins file
+
+
+sudo usermod -aG docker jenkins -- on jenkins server
+sudo systemctl restart jenkins
